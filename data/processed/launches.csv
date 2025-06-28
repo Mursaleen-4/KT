@@ -1,0 +1,9 @@
+launch_year,success,payload_mass_kg,rocket_name,weather_condition,wind_speed
+2020,1,5000,Falcon 9,Clear,15
+2020,1,8000,Falcon Heavy,Cloudy,25
+2021,1,6000,Falcon 9,Clear,10
+2021,0,10000,Falcon Heavy,Windy,40
+2022,1,7000,Falcon 9,Clear,20
+2022,1,9000,Falcon Heavy,Cloudy,30
+2023,1,5500,Falcon 9,Clear,15
+2023,1,8500,Falcon Heavy,Clear,25 
